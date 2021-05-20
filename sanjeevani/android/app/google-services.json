@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "415836963975",
+    "project_id": "sanjeevani-dummy",
+    "storage_bucket": "sanjeevani-dummy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415836963975:android:43a7dbb6bd4f1c70196422",
+        "android_client_info": {
+          "package_name": "com.dummy.sanjeevani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415836963975-ddd543s7k5o9kvsp98lmcc3qfj5rpbq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dummy.sanjeevani",
+            "certificate_hash": "457821369d472cd89993eecb8bacdad28cb92eed"
+          }
+        },
+        {
+          "client_id": "415836963975-c2vegnsnnh99ighjm4hgi8t4gqtt2k3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW2sfRJSjjFfrbgssVtidLlra3RR2OfUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415836963975-c2vegnsnnh99ighjm4hgi8t4gqtt2k3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
